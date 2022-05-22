@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on sudoku website with sudoku solver APIs and user-friendly interface. I am a big fan of sudoku.
-- 🌱 I’m currently learning Node.js and deepening my knowledge in JavaScript.
+- 🌱 I’m currently learning Node.js and deepening my knowledge of JavaScript.
 - 📫 How to reach me: via email (zhuldyznamazbayeva@gmail.com)
 - ⚡ Fun fact: My name's translation in english is a star and I hope I get a lot of stars in github too.
 
