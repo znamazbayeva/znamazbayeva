@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=znamazbayeva&label=Profile%20views&color=0e75b6&style=flat" alt="znamazbayeva" /> </p>
 
-- 🌱 I’m currently learning Three.js and deepening my knowledge of JavaScript.
+- 👨‍💻 I am a frontend developer (Vue.js, Three.js) at [Elefanto](https://elefanto.kz/)
+- 🌱 I’m currently learning **Three.js** and deepening my knowledge of **JavaScript**.
 - 📫 How to reach me: via email (zhuldyznamazbayeva@gmail.com)
-- ⚡ Fun fact: My name's translation in english is a star and I hope I get a lot of stars in github too.
+- ⚡ Fun fact: Sometimes I post vlogs on [youtube](https://www.youtube.com/channel/UCbHD6dNNg-d0OWagNOvxSGQ)
 - 💬 [My portfolio website](http://dotinay.com/) and [resume](https://github.com/znamazbayeva/resume/blob/main/Zhuldyz_s_Resume.pdf)
 <!-- on sudoku website with sudoku solver APIs and user-friendly interface. I am a big fan of sudoku. -->
 <!-- - 👯 I’m looking to collaborate on 
